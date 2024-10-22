@@ -1,0 +1,440 @@
+{
+	"id": "5f3143dd-b4c4-493f-a68c-dd1a286fc895",
+	"name": "Udacity",
+	"timestamp": "2024-10-22T13:41:41.432Z",
+	"collection_id": "12162095-52bf9ab7-1755-4cdb-b72f-d1bbf7d13b12",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-10-22T13:41:38.351Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "e19c6f2d-7b69-403a-aa07-c18fb8b826f6",
+			"name": "Save Customer",
+			"url": "http://localhost:8082/user/customer",
+			"time": 386,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				386
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d9c81c2c-d218-4bb2-8f3d-cda9673468ef",
+			"name": "Save Customer 2",
+			"url": "http://localhost:8082/user/customer",
+			"time": 21,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				21
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e9d5a36e-b9b9-4004-9130-8c0c304e7029",
+			"name": "Get All Customers",
+			"url": "http://localhost:8082/user/customer",
+			"time": 230,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				230
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "4dde6d02-576f-44d9-8c52-d92eb9e4b0de",
+			"name": "Save Pet",
+			"url": "http://localhost:8082/pet",
+			"time": 47,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				47
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d426dd99-55f4-4ee0-8df1-2ed3a263bf95",
+			"name": "Save Pet 2",
+			"url": "http://localhost:8082/pet",
+			"time": 44,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				44
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "bb5f3dc7-9030-44e2-95f7-2a099a4233de",
+			"name": "Save Pet 3",
+			"url": "http://localhost:8082/pet",
+			"time": 19,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				19
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1096b535-4113-4693-9052-67a094cad083",
+			"name": "Get All Pets",
+			"url": "http://localhost:8082/pet",
+			"time": 55,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				55
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "071e20a5-bd28-4bd4-95d5-6cc689c5dcf3",
+			"name": "Get All Pets id",
+			"url": "http://localhost:8082/pet/1",
+			"time": 44,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				44
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "218482e5-1bb1-45ae-90d9-31e376b2d1c9",
+			"name": "Get Pets By Owner",
+			"url": "http://localhost:8082/pet/owner/1",
+			"time": 69,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				69
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "76ecde81-74b2-4215-970f-79e42d7f32bf",
+			"name": "Get Owner By Pet",
+			"url": "http://localhost:8082/user/customer/pet/3",
+			"time": 11,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				11
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "63e5f836-4172-4fc6-b991-62e97e6b1dfb",
+			"name": "Save Employee",
+			"url": "http://localhost:8082/user/employee",
+			"time": 77,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				77
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "7786dcbb-05a1-415c-aab6-de574bb2c930",
+			"name": "Save Employee 2",
+			"url": "http://localhost:8082/user/employee",
+			"time": 28,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				28
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ae790e1c-0c8e-4bdd-a57d-7e0191727ba5",
+			"name": "Add Employee Schedule",
+			"url": "http://localhost:8082/user/employee/1",
+			"time": 41,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				41
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "6ea1436a-c222-42c9-91fd-15a95e1d82a1",
+			"name": "Check Availability",
+			"url": "http://localhost:8082/user/employee/availability",
+			"time": 36,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				36
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1ed7e827-0d6d-4df8-b47e-cadbd71b3693",
+			"name": "Create Schedule",
+			"url": "localhost:8082/schedule",
+			"time": 88,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				88
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "692da394-d519-4d4a-a824-74debaeaf688",
+			"name": "Get All Schedules",
+			"url": "localhost:8082/schedule",
+			"time": 41,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				41
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b62ff87a-92ea-406e-9397-8502d4d84ce0",
+			"name": "Find Schedule By Pet",
+			"url": "http://localhost:8082/schedule/pet/1",
+			"time": 48,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				48
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "48537aec-b2cf-48bc-9877-4c7736d2a45e",
+			"name": "Find Schedule By Employee",
+			"url": "http://localhost:8082/schedule/employee/2",
+			"time": 30,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				30
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c50b3f7a-d006-4c9e-8b18-cd5c5d15b8ea",
+			"name": "Find Schedule By Owner",
+			"url": "http://localhost:8082/schedule/employee/2",
+			"time": 16,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				16
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1331,
+	"collection": {
+		"requests": [
+			{
+				"id": "e19c6f2d-7b69-403a-aa07-c18fb8b826f6",
+				"method": "POST"
+			},
+			{
+				"id": "d9c81c2c-d218-4bb2-8f3d-cda9673468ef",
+				"method": "POST"
+			},
+			{
+				"id": "e9d5a36e-b9b9-4004-9130-8c0c304e7029",
+				"method": "GET"
+			},
+			{
+				"id": "4dde6d02-576f-44d9-8c52-d92eb9e4b0de",
+				"method": "POST"
+			},
+			{
+				"id": "d426dd99-55f4-4ee0-8df1-2ed3a263bf95",
+				"method": "POST"
+			},
+			{
+				"id": "bb5f3dc7-9030-44e2-95f7-2a099a4233de",
+				"method": "POST"
+			},
+			{
+				"id": "1096b535-4113-4693-9052-67a094cad083",
+				"method": "GET"
+			},
+			{
+				"id": "071e20a5-bd28-4bd4-95d5-6cc689c5dcf3",
+				"method": "GET"
+			},
+			{
+				"id": "218482e5-1bb1-45ae-90d9-31e376b2d1c9",
+				"method": "GET"
+			},
+			{
+				"id": "76ecde81-74b2-4215-970f-79e42d7f32bf",
+				"method": "GET"
+			},
+			{
+				"id": "63e5f836-4172-4fc6-b991-62e97e6b1dfb",
+				"method": "POST"
+			},
+			{
+				"id": "7786dcbb-05a1-415c-aab6-de574bb2c930",
+				"method": "POST"
+			},
+			{
+				"id": "ae790e1c-0c8e-4bdd-a57d-7e0191727ba5",
+				"method": "PUT"
+			},
+			{
+				"id": "6ea1436a-c222-42c9-91fd-15a95e1d82a1",
+				"method": "GET"
+			},
+			{
+				"id": "1ed7e827-0d6d-4df8-b47e-cadbd71b3693",
+				"method": "POST"
+			},
+			{
+				"id": "692da394-d519-4d4a-a824-74debaeaf688",
+				"method": "GET"
+			},
+			{
+				"id": "b62ff87a-92ea-406e-9397-8502d4d84ce0",
+				"method": "GET"
+			},
+			{
+				"id": "48537aec-b2cf-48bc-9877-4c7736d2a45e",
+				"method": "GET"
+			},
+			{
+				"id": "c50b3f7a-d006-4c9e-8b18-cd5c5d15b8ea",
+				"method": "GET"
+			}
+		]
+	}
+}
