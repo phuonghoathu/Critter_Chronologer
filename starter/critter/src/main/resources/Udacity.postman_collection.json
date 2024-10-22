@@ -437,7 +437,7 @@
 						}
 					}
 				},
-				"url": "http://localhost:8082/schedule/employee/2"
+				"url": "http://localhost:8082/schedule/employee/1"
 			},
 			"response": []
 		},
@@ -464,7 +464,7 @@
 						}
 					}
 				},
-				"url": "http://localhost:8082/schedule/employee/2"
+				"url": "http://localhost:8082/schedule/customer/1"
 			},
 			"response": []
 		}

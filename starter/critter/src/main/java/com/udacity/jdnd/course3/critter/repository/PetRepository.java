@@ -8,7 +8,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 @Repository
-@Transactional
 public interface PetRepository extends JpaRepository<Pet, Long> {
     List<Pet> findPetByCustomerId(Long customerId);
 }

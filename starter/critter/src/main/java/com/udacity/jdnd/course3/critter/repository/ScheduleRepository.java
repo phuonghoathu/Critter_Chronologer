@@ -10,7 +10,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 @Repository
-@Transactional
 public interface ScheduleRepository extends JpaRepository<Schedule, Long> {
     List<Schedule> findByPet(Pet pet);
     List<Schedule> findByEmployee(Employee employee);

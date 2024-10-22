@@ -1,7 +1,7 @@
 {
-	"id": "5f3143dd-b4c4-493f-a68c-dd1a286fc895",
+	"id": "024b9c9e-165f-42e0-9cf5-abcb52871792",
 	"name": "Udacity",
-	"timestamp": "2024-10-22T13:41:41.432Z",
+	"timestamp": "2024-10-22T16:34:14.562Z",
 	"collection_id": "12162095-52bf9ab7-1755-4cdb-b72f-d1bbf7d13b12",
 	"folder_id": 0,
 	"environment_id": "0",
@@ -9,14 +9,14 @@
 	"delay": 0,
 	"persist": true,
 	"status": "finished",
-	"startedAt": "2024-10-22T13:41:38.351Z",
+	"startedAt": "2024-10-22T16:34:10.790Z",
 	"totalFail": 0,
 	"results": [
 		{
 			"id": "e19c6f2d-7b69-403a-aa07-c18fb8b826f6",
 			"name": "Save Customer",
 			"url": "http://localhost:8082/user/customer",
-			"time": 386,
+			"time": 597,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -24,7 +24,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				386
+				597
 			],
 			"allTests": [
 				{}
@@ -34,7 +34,7 @@
 			"id": "d9c81c2c-d218-4bb2-8f3d-cda9673468ef",
 			"name": "Save Customer 2",
 			"url": "http://localhost:8082/user/customer",
-			"time": 21,
+			"time": 49,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -42,7 +42,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				21
+				49
 			],
 			"allTests": [
 				{}
@@ -52,7 +52,7 @@
 			"id": "e9d5a36e-b9b9-4004-9130-8c0c304e7029",
 			"name": "Get All Customers",
 			"url": "http://localhost:8082/user/customer",
-			"time": 230,
+			"time": 308,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -60,7 +60,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				230
+				308
 			],
 			"allTests": [
 				{}
@@ -70,7 +70,7 @@
 			"id": "4dde6d02-576f-44d9-8c52-d92eb9e4b0de",
 			"name": "Save Pet",
 			"url": "http://localhost:8082/pet",
-			"time": 47,
+			"time": 82,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -78,7 +78,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				47
+				82
 			],
 			"allTests": [
 				{}
@@ -88,7 +88,7 @@
 			"id": "d426dd99-55f4-4ee0-8df1-2ed3a263bf95",
 			"name": "Save Pet 2",
 			"url": "http://localhost:8082/pet",
-			"time": 44,
+			"time": 39,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -96,7 +96,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				44
+				39
 			],
 			"allTests": [
 				{}
@@ -106,7 +106,7 @@
 			"id": "bb5f3dc7-9030-44e2-95f7-2a099a4233de",
 			"name": "Save Pet 3",
 			"url": "http://localhost:8082/pet",
-			"time": 19,
+			"time": 26,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -114,7 +114,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				19
+				26
 			],
 			"allTests": [
 				{}
@@ -124,7 +124,7 @@
 			"id": "1096b535-4113-4693-9052-67a094cad083",
 			"name": "Get All Pets",
 			"url": "http://localhost:8082/pet",
-			"time": 55,
+			"time": 17,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -132,7 +132,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				55
+				17
 			],
 			"allTests": [
 				{}
@@ -142,7 +142,7 @@
 			"id": "071e20a5-bd28-4bd4-95d5-6cc689c5dcf3",
 			"name": "Get All Pets id",
 			"url": "http://localhost:8082/pet/1",
-			"time": 44,
+			"time": 83,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -150,7 +150,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				44
+				83
 			],
 			"allTests": [
 				{}
@@ -160,7 +160,7 @@
 			"id": "218482e5-1bb1-45ae-90d9-31e376b2d1c9",
 			"name": "Get Pets By Owner",
 			"url": "http://localhost:8082/pet/owner/1",
-			"time": 69,
+			"time": 34,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -168,7 +168,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				69
+				34
 			],
 			"allTests": [
 				{}
@@ -196,7 +196,7 @@
 			"id": "63e5f836-4172-4fc6-b991-62e97e6b1dfb",
 			"name": "Save Employee",
 			"url": "http://localhost:8082/user/employee",
-			"time": 77,
+			"time": 79,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -204,7 +204,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				77
+				79
 			],
 			"allTests": [
 				{}
@@ -214,7 +214,7 @@
 			"id": "7786dcbb-05a1-415c-aab6-de574bb2c930",
 			"name": "Save Employee 2",
 			"url": "http://localhost:8082/user/employee",
-			"time": 28,
+			"time": 16,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -222,7 +222,7 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				28
+				16
 			],
 			"allTests": [
 				{}
@@ -232,78 +232,6 @@
 			"id": "ae790e1c-0c8e-4bdd-a57d-7e0191727ba5",
 			"name": "Add Employee Schedule",
 			"url": "http://localhost:8082/user/employee/1",
-			"time": 41,
-			"responseCode": {
-				"code": 200,
-				"name": "OK"
-			},
-			"tests": {},
-			"testPassFailCounts": {},
-			"times": [
-				41
-			],
-			"allTests": [
-				{}
-			]
-		},
-		{
-			"id": "6ea1436a-c222-42c9-91fd-15a95e1d82a1",
-			"name": "Check Availability",
-			"url": "http://localhost:8082/user/employee/availability",
-			"time": 36,
-			"responseCode": {
-				"code": 200,
-				"name": "OK"
-			},
-			"tests": {},
-			"testPassFailCounts": {},
-			"times": [
-				36
-			],
-			"allTests": [
-				{}
-			]
-		},
-		{
-			"id": "1ed7e827-0d6d-4df8-b47e-cadbd71b3693",
-			"name": "Create Schedule",
-			"url": "localhost:8082/schedule",
-			"time": 88,
-			"responseCode": {
-				"code": 200,
-				"name": "OK"
-			},
-			"tests": {},
-			"testPassFailCounts": {},
-			"times": [
-				88
-			],
-			"allTests": [
-				{}
-			]
-		},
-		{
-			"id": "692da394-d519-4d4a-a824-74debaeaf688",
-			"name": "Get All Schedules",
-			"url": "localhost:8082/schedule",
-			"time": 41,
-			"responseCode": {
-				"code": 200,
-				"name": "OK"
-			},
-			"tests": {},
-			"testPassFailCounts": {},
-			"times": [
-				41
-			],
-			"allTests": [
-				{}
-			]
-		},
-		{
-			"id": "b62ff87a-92ea-406e-9397-8502d4d84ce0",
-			"name": "Find Schedule By Pet",
-			"url": "http://localhost:8082/schedule/pet/1",
 			"time": 48,
 			"responseCode": {
 				"code": 200,
@@ -319,10 +247,10 @@
 			]
 		},
 		{
-			"id": "48537aec-b2cf-48bc-9877-4c7736d2a45e",
-			"name": "Find Schedule By Employee",
-			"url": "http://localhost:8082/schedule/employee/2",
-			"time": 30,
+			"id": "6ea1436a-c222-42c9-91fd-15a95e1d82a1",
+			"name": "Check Availability",
+			"url": "http://localhost:8082/user/employee/availability",
+			"time": 42,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -330,7 +258,79 @@
 			"tests": {},
 			"testPassFailCounts": {},
 			"times": [
-				30
+				42
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1ed7e827-0d6d-4df8-b47e-cadbd71b3693",
+			"name": "Create Schedule",
+			"url": "localhost:8082/schedule",
+			"time": 67,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				67
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "692da394-d519-4d4a-a824-74debaeaf688",
+			"name": "Get All Schedules",
+			"url": "localhost:8082/schedule",
+			"time": 37,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				37
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b62ff87a-92ea-406e-9397-8502d4d84ce0",
+			"name": "Find Schedule By Pet",
+			"url": "http://localhost:8082/schedule/pet/1",
+			"time": 23,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				23
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "48537aec-b2cf-48bc-9877-4c7736d2a45e",
+			"name": "Find Schedule By Employee",
+			"url": "http://localhost:8082/schedule/employee/2",
+			"time": 13,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				13
 			],
 			"allTests": [
 				{}
@@ -356,7 +356,7 @@
 		}
 	],
 	"count": 1,
-	"totalTime": 1331,
+	"totalTime": 1587,
 	"collection": {
 		"requests": [
 			{
